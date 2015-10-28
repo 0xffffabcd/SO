@@ -1,4 +1,4 @@
-package com.company;
+package com.nasreddine;
 
 import com.google.common.io.BaseEncoding;
 import java.io.UnsupportedEncodingException;
